@@ -1,0 +1,22 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Sensitive files
+.env
+config.js
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore coverage files (if using a testing tool like Jest)
+coverage/
+
+# Ignore build files (if using any build tools)
+dist/
+build/
